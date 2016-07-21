@@ -55,8 +55,12 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "I thought I was going to be a bum the rest of my life. ― Jean-Michel Basquiat"
+  - text: "Art is for everybody." ― Keith Haring"
+  - text: "“I'd rather be hated for who I am, than loved for who I am not.” ― Kurt Cobain"
+  - text: "“You have to be someone.” ― Bob Marley"
+  - text: "“The true sign of intelligence is not knowledge but imagination.” ― Albert Einstein"
+
 
 me-img: "/img/jetpacktocat.png"
 
