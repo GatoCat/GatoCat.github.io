@@ -140,7 +140,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "youremail@email.here"
 
 ################
 # Author Blurb #
@@ -182,7 +182,7 @@ social:
 # Sections shown in the index page
 
 pages_list:
-  Shop: 'timeline'
+  Shop: 'shop'
   About: 'about'
   Blog: 'latest-post'
   Timeline: 'timeline'
