@@ -187,7 +187,7 @@ pages_list:
   Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
-  Cart: '<a href="#" class="snipcart-checkout"></a>'
+ 
 
 # Exclusion list from the generated _site
 
