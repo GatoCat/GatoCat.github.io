@@ -179,6 +179,7 @@ social:
 # Sections shown in the index page
 
 pages_list:
+  Shop: 'shop'
   About: 'about'
   Blog: 'latest-post'
   Timeline: 'timeline'
