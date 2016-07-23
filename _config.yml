@@ -66,6 +66,9 @@ lines: # You can add HTML Tags in the Text
   - text: "“I wish they would only take me as I am.” ― Vincent Van Gogh"
   - text: "“The chief enemy of creativity is 'good' sense.” ― Pablo Picasso"
   - text: "“Imagination will often carry us to worlds that never were, but without it we go nowhere.” ― Carl Sagan"
+  - text: "“Only those who dare to fail greatly can ever achieve greatly.” ― Robert Kennedy"
+  - text: "“I dress to kill, but tastefully.” ― Freddie Mercury"
+
 
 
 
@@ -179,7 +182,7 @@ social:
 # Sections shown in the index page
 
 pages_list:
-  Shop: 'shop'
+  Shop: 'timeline'
   About: 'about'
   Blog: 'latest-post'
   Timeline: 'timeline'
