@@ -5,13 +5,20 @@ title: Shop
 ---
 ## Shop
 
+<div class="product">
+  
+  <a class="product" href="{{ site.baseurl }}{{ product.url }}">
+    <img src="{{ product.image }}" alt="{{ product.name }}" class="thumbnail"/>
+    <p>{{ product.name }}</p>
+  </a>
+
 <button
     class="snipcart-add-item"
     data-item-id="2"
     data-item-name="Bacon"
     data-item-price="3.00"
     data-item-weight="20"
-     data-item-image="/img/shirts/1.png"
+    data-item-image="/img/shirts/1.png"
     data-item-url="http://myapp.com/products/bacon"
     data-item-description="Some fresh bacon">
         Buy bacon
