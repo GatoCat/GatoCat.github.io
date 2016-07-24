@@ -185,7 +185,6 @@ pages_list:
   Shop: 'shop'
   About: 'about'
   Blog: 'latest-post'
-  Timeline: 'timeline'
   Contact: 'contact'
  
 
