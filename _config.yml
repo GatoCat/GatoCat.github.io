@@ -208,3 +208,8 @@ gems:
   
 collections:
     - products
+    
+markdown: kramdown
+collections:
+products:
+output: true
