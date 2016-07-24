@@ -206,9 +206,3 @@ gems:
   - jekyll-paginate
   - jemoji
   
-collections:
-  - products
-
-collections:
-  products:
-    output: true
