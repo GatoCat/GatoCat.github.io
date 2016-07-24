@@ -205,3 +205,6 @@ sass:
 gems:
   - jekyll-paginate
   - jemoji
+  
+collections:
+    - products
