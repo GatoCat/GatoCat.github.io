@@ -207,9 +207,8 @@ gems:
   - jemoji
   
 collections:
-    - products
-    
-markdown: kramdown
+  - products
+
 collections:
-products:
-output: true
+  products:
+    output: true
