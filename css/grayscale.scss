@@ -69,6 +69,44 @@
   clear: both;
   }
 
+/* Contact Page
+------------------------------------------------------------*/
+
+#contact_links li a {
+  padding: 10px 4px;
+  }
+
+#contact_form {
+  float: left;
+  }
+
+#contact_form ul {
+  margin-bottom: 25px;
+  }
+
+#contact_form li {
+  padding: 0;
+  }
+
+#contact_form input,
+#contact_form textarea {
+  width: 95%;
+  margin: 0 auto;
+  }
+
+#captcha_img input {
+  float: left;
+  width: 53%;
+  padding: 17px 8px;
+  margin-right: 0;
+  }
+
+#contact_page #contact_button {
+  width: 100%;
+  clear: both;
+  }
+
+
 #bg {
   position: fixed; 
   top: 0; 
