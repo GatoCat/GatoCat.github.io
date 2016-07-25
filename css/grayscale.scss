@@ -13,47 +13,6 @@
   Contact
 -------------------------------------------------------------- */   
 
-#contact_page #page_body p:first-child {
-  padding-bottom: 40px;
-  border-bottom: 1px solid #e5e5e5;
-  }
-  
-#contact_page #page_body p#thank_you {
-  padding-bottom: 0 !important;
-  border: none !important;
-  text-align: center;
-  }    
-
-#contact_links {
-  padding-bottom: 15px;
-  margin-top: -10px;
-  text-align: center;
-  border-bottom: 1px solid #e5e5e5;
-  }
-
-#contact_links.no_intro {
-  margin-top: 40px;
-  padding-top: 14px;
-  border-top: 1px solid #e5e5e5;
-  }
-
-#contact_links li {
-  display: inline-block;
-  font-size: 13px;
-  }   
-  
-#contact_links li:after {
-  content:"/";
-  padding: 0 0 0 4px;
-  }
-  
-#contact_links li:last-child:after {
-  content:"";
-  }    
-
-#contact_links li a {
-  border: none;
-  }  
   
 #contact_form {
   width: 100%;
