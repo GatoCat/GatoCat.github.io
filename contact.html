@@ -6,7 +6,7 @@ title: Contact
 ## Contact
 
  <form action="https://formspree.io/mquintana22@gmail.com"
-      method="POST">
+      method="POST" class="pure-form pure-form-stacked">
     <ul>
       
         <label>Your name</label>
@@ -31,4 +31,27 @@ title: Contact
     <button id="contact_button" type="submit" name="submit" class="button">Send Message</button>            
   </form>
   
+<form class="pure-form pure-form-stacked">
+    <fieldset>
+        <legend>A Stacked Form</legend>
 
+        <label for="email">Email</label>
+        <input id="email" type="email" placeholder="Email">
+
+        <label for="password">Password</label>
+        <input id="password" type="password" placeholder="Password">
+
+        <label for="state">State</label>
+        <select id="state">
+            <option>AL</option>
+            <option>CA</option>
+            <option>IL</option>
+        </select>
+
+        <label for="remember" class="pure-checkbox">
+            <input id="remember" type="checkbox"> Remember me
+        </label>
+
+        <button type="submit" class="pure-button pure-button-primary">Sign in</button>
+    </fieldset>
+</form>
